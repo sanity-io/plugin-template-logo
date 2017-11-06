@@ -16,5 +16,9 @@
   "homepage": "https://github.com/sanity-io/plugin-template-logo#readme",
   "peerDependencies": {
     "react": "^15.0.0"
+  },
+  "sanityTemplate": {
+    "suggestedName": "my-studio-logo",
+    "requiresConfig": false
   }
 }
