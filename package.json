@@ -19,6 +19,7 @@
   },
   "sanityTemplate": {
     "suggestedName": "my-studio-logo",
-    "requiresConfig": false
+    "requiresConfig": false,
+    "minimumBaseVersion": "0.119.0"
   }
 }
