@@ -8,4 +8,4 @@ import schnauzerLogo from './schnauzer.png'
 
 const ImgLogo = () => <img src={schnauzerLogo} />
 
-module.exports = ImgLogo
+export default ImgLogo
