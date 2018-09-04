@@ -25,4 +25,4 @@ const Logo = () => (
   </svg>
 )
 
-module.exports = Logo
+export default Logo
